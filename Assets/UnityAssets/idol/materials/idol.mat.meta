@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3f02e7cab03935b479e36dfa2aafdf92
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 24534
+  packageName: Idol
+  packageVersion: 4.3.4
+  assetPath: Assets/idol/materials/idol.mat
+  uploadId: 39252
